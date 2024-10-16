@@ -1,0 +1,46 @@
+{
+  "details": [
+    {
+      "name": "abhiram",
+      "age": 23,
+      "Dob": "19/09/2001",
+      "id": "7da9"
+    },
+    {
+      "name": "saidulu",
+      "age": 23,
+      "Dob": "30/09/2001",
+      "id": "2e80"
+    },
+    {
+      "name": "saikiran",
+      "age": 23,
+      "Dob": "No idea",
+      "id": "2bae"
+    },
+    {
+      "name": "Digamber",
+      "age": 23,
+      "Dob": "No idea",
+      "id": "a968"
+    },
+    {
+      "name": "Vamshi krishna",
+      "age": 23,
+      "Dob": "No idea",
+      "id": "79eb"
+    },
+    {
+      "id": "26cc",
+      "name": "sri kanth",
+      "age": 22,
+      "dod": "NO idea"
+    },
+    {
+      "id": "bedd",
+      "name": "sri kanth",
+      "age": 22,
+      "dod": "NO idea"
+    }
+  ]
+}
